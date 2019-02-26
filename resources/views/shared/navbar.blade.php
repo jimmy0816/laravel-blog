@@ -1,8 +1,8 @@
-<nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-md">
+<nav class="navbar bg-white fixed-top navbar-expand-md">
     <div class="container">
         <!-- Branding Image -->
 
-        <a href="{{route('home')}}" class="navbar-left"><img src="{{ asset('FTs1.png')}}" width="100%" alt=""></a>
+        <a href="{{route('home')}}" class="navbar-left"><img src="{{ asset('FTs14-3.png')}}" width="80px" alt=""></a>
 
         <!-- Collapsed Hamburger -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
